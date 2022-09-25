@@ -1,4 +1,4 @@
-<h1 align=center>It's Hyojoo's github No.1 ✊</h1><br><br><br>
+<h1 align=center>It's Hyoju's github No.1 ✊</h1><br><br><br>
 
 
 <div align=center><h1>📚 STACKS</h1></div><br>
