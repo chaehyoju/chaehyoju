@@ -1,4 +1,4 @@
-<h1 align=center>Hi~ this is chaehyoju's github ~ 👋</h1><br><br><br>
+<h1 align=center>It's Hyojoo's github of Namyangjoo No.1 ✊</h1><br><br><br>
 
 
 <div align=center><h1>📚 STACKS</h1></div><br>
@@ -23,10 +23,10 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/linux-4169E1?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=javascript&logoColor=black">
+  
   <br>
   
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <br><br><br><br>
 <div>
