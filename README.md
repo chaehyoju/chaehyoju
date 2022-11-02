@@ -1,6 +1,6 @@
 <h1 align=center>It's Hyoju's github No.1 ✊</h1><br><br><br>
 
-
+## Tech
 <div align=center><h1>📚 STACKS</h1></div><br>
 <div align=center>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
